@@ -27,17 +27,9 @@ schedule:
   - name: Monday
     events:
       - name: Lecture Slot 1
-        start: 2:30 PM
+        start: 2:00 PM
         end: 3:30 PM
         location: Teams
-<!--      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda -->
   - name: Tuesday
     events:
       - name: Instructor Office Hours 1
@@ -47,7 +39,7 @@ schedule:
   - name: Wednesday
     events:
       - name: Lecture Slot 2
-        start: 2:00 MM
+        start: 2:00 PM
         end: 3:30 PM
         location: Teams
   - name: Thursday
