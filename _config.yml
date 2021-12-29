@@ -18,7 +18,7 @@ tagline: Introduction to Machine Learning
 description: CSE IITB
 author: Indradyumna Roy
 baseurl: '/419M-Spring-2021' # the subpath of your site, e.g. /blog
-url: 'https://indradyumna.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://indradyumna.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
  
 # Theme settings
@@ -30,7 +30,7 @@ permalink: pretty
 aux_links:
   Indradyumna Roy:
     - 'https://indradyumna.github.io/'
-  Just the Class on GitHub:
+  GitHub Source:
     - 'https://github.com/Indradyumna/419M-Spring-2021'
 footer_content:
 

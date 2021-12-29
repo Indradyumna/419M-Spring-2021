@@ -17,6 +17,7 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
+<!---
 ## Just the Class
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
@@ -30,7 +31,8 @@ Just the Class is a set of customizations on top of the popular [Just the Docs](
 - automatic [navigation structure](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/),
 - instant, full-text [search](https://pmarsceill.github.io/just-the-docs/docs/search/) and page indexing,
 - and a small but powerful set of [UI components](https://pmarsceill.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://pmarsceill.github.io/just-the-docs/docs/utilities).
-
+-->
+<!--
 ## Getting Started
 
 Getting started with Just the Class is simple.
@@ -63,3 +65,4 @@ $ bundle exec jekyll serve
 1. Reload your web browser after making a change to preview its effect.
 
 For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+-->
