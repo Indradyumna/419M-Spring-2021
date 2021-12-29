@@ -28,8 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Indradyumna Roy:
-    - 'https://indradyumna.github.io/'
   GitHub Source:
     - 'https://github.com/Indradyumna/419M-Spring-2021'
 footer_content:
