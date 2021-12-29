@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: {{ site.title }}
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: 491M-Spring-2021
 ---
 
 # {{ site.tagline }}
