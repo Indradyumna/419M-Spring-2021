@@ -1,5 +1,6 @@
 ---
 timeline:
+  - '8:30 AM' 
   - '9:00 AM'
   - '9:30 AM'
   - '10:00 AM'
@@ -17,36 +18,20 @@ timeline:
   - '4:00 PM'
   - '4:30 PM'
   - '5:00 PM'
-  - '5:30 PM'
-  - '6:00 PM'
-  - '6:30 PM'
-  - '7:00 PM'
-  - '7:30 PM'
-  - '8:00 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Lecture Slot 1
-        start: 2:00 PM
-        end: 3:30 PM
-        location: Teams
   - name: Tuesday
-    events:
-      - name: Instructor Office Hours 1
-        start: 12:30 PM
-        end: 2:00 PM
-        location: GMeet
   - name: Wednesday
     events:
-      - name: Lecture Slot 2
-        start: 2:00 PM
-        end: 3:30 PM
-        location: Teams
+      - name: Lecture
+        start: 9:30 AM
+        end: 10:55 AM
+        location: MS Teams
   - name: Thursday
   - name: Friday
     events:
-      - name: Instructor Office Hours 2
-        start: 12:30 PM
-        end: 2:00 PM
-        location: GMeet
+      - name: Lecture
+        start: 9:30 AM
+        end: 10:55 AM
+        location: MS Teams
 ---

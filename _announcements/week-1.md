@@ -1,10 +1,10 @@
 ---
-title: Dummy announcements
-week: -1
-date: 2019-04-08
+title: Welcome to the course
+week: 1
+date: 2022-01-05
 ---
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Update `_config.yml` with your course information.
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add your content.
+- Teaching Mode: **Online**
+- Prerequisites: Strong hold on **linear algebra and probability**. If you really think that you are not good at it, better fix it and then come back to the class next year. This is NOT an _elementary machine learning course_. We will cover stuffs with depth, hold on semi-advanced maths are strongly recommended.
+- Quiz on the **next week** for brushing up prerequisites.
+- Resources from previous offering: [Spring 2020](https://rebrand.ly/cs419-2021)

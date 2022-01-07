@@ -1,6 +1,6 @@
 ---
 layout: home
-title: {{ site.title }}
+title: Introduction to Machine Learning
 nav_exclude: true
 seo:
   type: Course
