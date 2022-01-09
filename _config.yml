@@ -16,7 +16,7 @@
 #
 title: CS 419M
 tagline: Introduction to Machine Learning
-description: CSE IITB, Spring 2021
+description: CSE IITB, Spring 2021-22
 author: Indradyumna Roy
 baseurl: '/419M-Spring-2021' # the subpath of your site, e.g. /blog
 url: 'https://indradyumna.github.io' # the base hostname & protocol for your site, e.g. http://example.com

@@ -27,7 +27,7 @@ This is a UG Minor course. You would be introduced about basic machine learning 
 
 This course will run in **online mode**. Live lectures will be taken on MS Teams. Recordings of these lectures will be made available for usage.
 - TAs will share a Google form for submitting doubts. We will collate them and address by group. Forms will be shared every week. In person 1-1 meetings seem grim.
-
+- [Course Google Drive Folder](https://drive.google.com/drive/folders/15eJkfWkK6dmgn80E-y3DIAczwh5ZLv-8?usp=sharing)
 ## Reference Texts
 
 - **Elements of Statistical Learning**, by Trevor Hastie, Robert Tibshirani, Jerome Friedman, Springer, 2009. [_Available online_](https://web.stanford.edu/~hastie/ElemStatLearn/)
