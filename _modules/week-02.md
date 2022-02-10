@@ -10,7 +10,7 @@ Jan 14
 : Probabilistic Estimators 
   : [Lecture 3](https://drive.google.com/file/d/1qQg5HvkWzQ-_h2sostDUFX9bKrqts4gF/view?usp=sharing), [Instructor Notes](https://drive.google.com/file/d/14iKasRQ-Kgpwa-gJtfrcoT1BRfAAfjfy/view?usp=sharing), [Student Scribes](https://drive.google.com/file/d/16UTt0pDtCOSOdMoZT1WNgA6aOvOf_cHy/view?usp=sharing)
 
-Jan 26
+Jan 16
 : **Quiz 0**{: .label .label-purple }
   : [Solutions](https://drive.google.com/file/d/1X2hVehl8mxanUrsPiPi5eSU4oB2-_C4c/view?usp=sharing)
 
