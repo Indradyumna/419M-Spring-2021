@@ -1,23 +1,12 @@
 ---
-title: Introduction to Java
+title: Week 1:  
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Jan 5
+: Course Intro
+  : [Lecture 0](https://drive.google.com/file/d/1AawavHmE4DiJi-K8f2gms2o64ppS3Nee/view?usp=sharing), [Slides] (https://drive.google.com/file/d/1HsWBhYHPTNjNc8yJ_OLdo2XKygRau3g9/view?usp=sharing)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Jan 7
+: Math Intro
+  : [Lecture 1](https://drive.google.com/file/d/195lvMQt7BCgth6zJfxJIuwoiSajLFWdv/view?usp=sharing) , [Instructor Notes](https://drive.google.com/file/d/1L89QJm00GcXF47tbKd6IoZjUGiOITnmA/view?usp=sharing) , [Scribe](https://drive.google.com/file/d/1AD6cQICv6eJaoFEUdWZfuhtzclCKUUHX/view?usp=sharing)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
